@@ -7,7 +7,7 @@
   Linkedin: https://www.linkedin.com/in/madhusudan-ks1712/
   Mail: madhusudan.ks1712@gmail.com
   
-- SKILLS:
+<-SKILLS:->
   
 - Programming: C, Python, SQL
 - Web Development: HTML5, CSS, JavaScript
