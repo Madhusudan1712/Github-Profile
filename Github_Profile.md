@@ -8,11 +8,11 @@
   Mail: madhusudan.ks1712@gmail.com
   
 - SKILLS:
-
-Programming: C, Python, SQL
-Web Development: HTML5, CSS, JavaScript
-Frameworks: Flask, Django
-IDE: VS Code, IntelliJ IDEA
+  
+- Programming: C, Python, SQL
+- Web Development: HTML5, CSS, JavaScript
+- Frameworks: Flask, Django
+- IDE: VS Code, IntelliJ IDEA
 
 - EDUCATION:
 
