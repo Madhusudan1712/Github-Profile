@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhusudan K S</h1>
-<h3 align="center">🚀 Software Engineer | Backend Specialist | Java & .NET Developer</h3>
+<h3 align="center">🚀 Software Engineer | Full-Stack| React - Java - SQL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Madhusudan1712&label=Profile%20Views&color=0e75b6&style=flat" alt="Madhusudan1712" />
