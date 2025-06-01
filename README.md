@@ -75,7 +75,7 @@
 ### 🤝 Let’s Connect
 
 - 📧 Email: [madhusudan.ks1712@gmail.com](mailto:madhusudan.ks1712@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/madhusudan-ks1712/]
+- 💼 LinkedIn: https://www.linkedin.com/in/madhusudan-ks1712/
 
 ---
 
