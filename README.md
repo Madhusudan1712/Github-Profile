@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Madhusudan K S</h1>
 <h3 align="center">🚀 Software Engineer | Full-Stack| React - Java - SQL</h3>
 
+Portfolio(devspace): https://devspace.madhusudan.space/
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Madhusudan1712&label=Profile%20Views&color=0e75b6&style=flat" alt="Madhusudan1712" />
 </p>
@@ -27,10 +29,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently building robust backend systems with **Spring Boot**, **.NET**, and **MongoDB**
+- 🔭 I’m currently building robust backend systems with **React**, **Spring Boot**, **.NET**, and **Postgressql**
 - 🌱 Actively learning:  
-  &nbsp;&nbsp;&nbsp;&nbsp;⚙️ Advanced Spring Security | ☁️ AWS S3 Integration | 💻 React.js (Frontend)
-- 💬 Ask me about **Java**, **.NET Core**, **Spring Boot**, **REST APIs**, or **Backend Design**
+  &nbsp;&nbsp;&nbsp;&nbsp;⚙️ Advanced Spring Security | ☁️ AWS S3 Integration
+- 💬 Ask me about **React** **Java**, **.NET Core**, **Spring Boot**, **REST APIs**, or **Backend Design**
 - 🧠 Exploring:  
   &nbsp;&nbsp;&nbsp;&nbsp;🔹 Microservices Architecture  
   &nbsp;&nbsp;&nbsp;&nbsp;🔹 Scalable System Design  
